@@ -22,5 +22,9 @@
 			<attribute name="javadoc_location" value="https://www.selenium.dev/selenium/docs/api/java/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="D:/Archana Data/Revision/CSharpJExcel/jexcelapi/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/Archana Data/Revision/CSharpJExcel/jexcelapi/build/JFlex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Archana/Archana/Desktop/Pract/Guru99Bank Project/Day03/lib/jxl.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
