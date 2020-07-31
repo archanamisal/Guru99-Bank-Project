@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96923" started-at="2020-07-31T11:54:01Z" finished-at="2020-07-31T11:55:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96923" started-at="2020-07-31T11:54:01Z" finished-at="2020-07-31T11:55:38Z">
+      <class name="Guru99_Bank_Project.TestScript04">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Guru99_Bank_Project.TestScript04@7907ec20]" name="setUp" is-config="true" duration-ms="17191" started-at="2020-07-31T17:24:01Z" finished-at="2020-07-31T17:24:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCase04(java.lang.String, java.lang.String)[pri:0, instance:Guru99_Bank_Project.TestScript04@7907ec20]" name="testCase04" duration-ms="2152" started-at="2020-07-31T17:24:19Z" data-provider="GuruTest" finished-at="2020-07-31T17:24:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr1336]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dAnavUq]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase04 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Guru99_Bank_Project.TestScript04@7907ec20]" name="tearDown" is-config="true" duration-ms="6365" started-at="2020-07-31T17:24:21Z" finished-at="2020-07-31T17:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Guru99_Bank_Project.TestScript04@7907ec20]" name="setUp" is-config="true" duration-ms="14931" started-at="2020-07-31T17:24:27Z" finished-at="2020-07-31T17:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCase04(java.lang.String, java.lang.String)[pri:0, instance:Guru99_Bank_Project.TestScript04@7907ec20]" name="testCase04" duration-ms="2230" started-at="2020-07-31T17:24:42Z" data-provider="GuruTest" finished-at="2020-07-31T17:24:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase04 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Guru99_Bank_Project.TestScript04@7907ec20]" name="tearDown" is-config="true" duration-ms="5871" started-at="2020-07-31T17:24:44Z" finished-at="2020-07-31T17:24:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Guru99_Bank_Project.TestScript04@7907ec20]" name="setUp" is-config="true" duration-ms="15589" started-at="2020-07-31T17:24:50Z" finished-at="2020-07-31T17:25:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCase04(java.lang.String, java.lang.String)[pri:0, instance:Guru99_Bank_Project.TestScript04@7907ec20]" name="testCase04" duration-ms="2291" started-at="2020-07-31T17:25:06Z" data-provider="GuruTest" finished-at="2020-07-31T17:25:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase04 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Guru99_Bank_Project.TestScript04@7907ec20]" name="tearDown" is-config="true" duration-ms="6102" started-at="2020-07-31T17:25:08Z" finished-at="2020-07-31T17:25:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Guru99_Bank_Project.TestScript04@7907ec20]" name="setUp" is-config="true" duration-ms="15204" started-at="2020-07-31T17:25:14Z" finished-at="2020-07-31T17:25:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCase04(java.lang.String, java.lang.String)[pri:0, instance:Guru99_Bank_Project.TestScript04@7907ec20]" name="testCase04" duration-ms="2318" started-at="2020-07-31T17:25:29Z" data-provider="GuruTest" finished-at="2020-07-31T17:25:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase04 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Guru99_Bank_Project.TestScript04@7907ec20]" name="tearDown" is-config="true" duration-ms="6277" started-at="2020-07-31T17:25:32Z" finished-at="2020-07-31T17:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Guru99_Bank_Project.TestScript04 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
